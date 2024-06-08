@@ -213,14 +213,14 @@
 			"ext":"https://raw.staticdn.net/YLEDE/tvbox/master/xpath/ttkx.json"
 		},
 		{
-			"key":"多多影音",
-			"name":"多多",
+			"key":"玩偶哥哥",
+			"name":"玩偶",
 			"type":3,
 			"api":"csp_XYQHikerAL",
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":1,
-			"ext":"https://raw.staticdn.net/YLEDE/tvbox/master/xpath/ddys.json"
+			"ext":"https://raw.staticdn.net/YLEDE/tvbox/master/xpath/wogg.json"
 		},
 		{
 			"key":"云盘资源",
