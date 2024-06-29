@@ -49,7 +49,7 @@
 			"api":"csp_Yqk",
 			"searchable":1,
 			"quickSearch":1,
-			"changeable":1，
+			"changeable":1,
 			"jar":"https://gitee.com/RTXRui/tvfile/raw/master/danmu.jar"
 		},
 		{
@@ -130,12 +130,12 @@
             		"quickSearch":1
         	},
 		{
-            		"key": "酷看影视",
-            		"name": "酷看影视",
-            		"type": 3,
-            		"api": "csp_Wexkukantv",
-            		"searchable": 1,
-            		"changeable": 1
+            		"key":"酷看影视",
+            		"name":"酷看影视",
+            		"type":3,
+            		"api":"csp_Wexkukantv",
+            		"searchable":1,
+            		"changeable":1
         	},
 		{
 			"key":"csp_ShiLiuDY",
@@ -231,8 +231,8 @@
             		"type":3,
             		"api":"csp_Wogg",
             		"searchable":1,
-            		"quickSearch": 1,
-            		"filterable": 1,
+            		"quickSearch":1,
+            		"filterable":1,
             		"ext":{
                 		"token":"http://127.0.0.1:9978/file/TVBox/token.txt",
                 		"cookie":"http://127.0.0.1:9978/file/TVBox/quark.txt",
@@ -247,12 +247,12 @@
       			"type":3,
       			"api":"csp_YiSo",
       			"searchable":1,
-      			"filterable": 0,
-      			"changeable": 1,
+      			"filterable":0,
+      			"changeable":1,
       			"ext":{
-        			"token": "http://127.0.0.1:9978/file/TVBox/token.txt",
-        			"danmu": true,
-        			"cookie": "satoken=60201207-5254-4d44-8ed9-db4ed5476163"
+        			"token":"http://127.0.0.1:9978/file/TVBox/token.txt",
+        			"danmu":true,
+        			"cookie":"satoken=60201207-5254-4d44-8ed9-db4ed5476163"
       				},
       			"jar":"https://gitee.com/RTXRui/tvfile/raw/master/danmu.jar"
     		},
