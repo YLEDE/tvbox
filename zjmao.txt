@@ -82,7 +82,7 @@
 		},
     		{
       			"key":"在线之家",
-      			"name":"在线之家",
+      			"name":"在线",
       			"type":3,
       			"api":"csp_Wexzxzj",
       			"searchable":1,
@@ -130,8 +130,8 @@
             		"quickSearch":1
         	},
 		{
-            		"key":"酷看影视",
-            		"name":"酷看影视",
+            		"key":"csp_Wexkukantv",
+            		"name":"酷看",
             		"type":3,
             		"api":"csp_Wexkukantv",
             		"searchable":1,
@@ -170,7 +170,7 @@
 		},
 		{
       			"key":"csp_WexNmys",
-      			"name":"农民影视",
+      			"name":"农民",
       			"type":3,
       			"api":"csp_WexNmys",
       			"searchable":1,
@@ -188,7 +188,7 @@
 		},
         	{
             		"key":"csp_Ddys",
-            		"name":"低端影视",
+            		"name":"低端",
             		"type":3,
             		"api":"csp_Ddys",
             		"searchable":1,
