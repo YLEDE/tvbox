@@ -213,14 +213,14 @@
 			"ext":"https://raw.staticdn.net/YLEDE/tvbox/master/xpath/ttkx.json"
 		},
 		{
-			"key":"玩偶哥哥",
-			"name":"玩偶",
+			"key":"多多影音",
+			"name":"多多",
 			"type":3,
 			"api":"csp_XYQHikerAL",
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":1,
-			"ext":"https://raw.staticdn.net/YLEDE/tvbox/master/xpath/wogg.json"
+			"ext":"https://raw.staticdn.net/YLEDE/tvbox/master/xpath/ddys.json"
 		},
 		{
 			"key":"云盘资源",
@@ -233,15 +233,35 @@
 			"ext":"https://raw.staticdn.net/YLEDE/tvbox/master/xpath/ypzy.json"
 		},
 		{
-			"key":"阿里苏苏",
-			"name":"苏苏",
-			"type":3,
-			"api":"csp_XYQHikerAL",
-			"searchable":1,
-			"quickSearch":1,
-			"filterable":1,
-			"ext":"https://raw.staticdn.net/YLEDE/tvbox/master/xpath/sstv.json"
-		},
+            		"key":"csp_Wogg",
+            		"name":"玩偶",
+            		"type":3,
+            		"api":"csp_Wogg",
+            		"searchable":1,
+            		"quickSearch": 1,
+            		"filterable": 1,
+            		"ext":{
+                		"token":"http://127.0.0.1:9978/file/TVBox/token.txt",
+                		"cookie":"http://127.0.0.1:9978/file/TVBox/quark.txt",
+                		"site":"https://www.wogg.net",
+                		"danmu":true
+				},
+            		"jar":"https://gitee.com/RTXRui/tvfile/raw/master/danmu.jar"
+        	},
+       		 {
+            		"key":"csp_PanSearch",
+            		"name":"盘搜",
+            		"type":3,
+			"api":"csp_PanSearch",
+            		"searchable":1,
+            		"filterable":0,
+            		"changeable":1,
+            		"ext":{
+                		"token":"http://127.0.0.1:9978/file/TVBox/token.txt",
+                		"danmu":true
+            			},
+            		"jar":"https://gitee.com/RTXRui/tvfile/raw/master/danmu.jar"
+        	},
 		{
 			"key":csp_xBPQ_nkdy",
 			"name":"耐看",
