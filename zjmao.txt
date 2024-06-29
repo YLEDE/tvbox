@@ -43,31 +43,32 @@
 			"filterable":1
 		},
 		{
-			"key":"csp_YQKan",
+			"key":"csp_Yqk",
 			"name":"一起看",
 			"type":3,
-			"api":"csp_YQKan",
+			"api":"csp_Yqk",
 			"searchable":1,
 			"quickSearch":1,
-			"changeable": 1
+			"changeable":1，
+			"jar":"https://gitee.com/RTXRui/tvfile/raw/master/danmu.jar"
 		},
 		{
-			"key":"白嫖影视",
-			"name":"白嫖",
-			"type":3,
-			"api":"csp_Wexbaipiao",
-			"searchable":1,
-			"changeable":1
-		},
+      			"key":"素白白",
+      			"name":"素白白",
+      			"type":3,
+      			"api":"csp_Subaibai",
+      			"searchable":1,
+      			"changeable":1
+    		},
 		{
-			"key":"csp_LiteApple",
+			"key":"csp_Xpg",
 			"name":"小苹果",
 			"type":3,
-			"api":"csp_LiteApple",
+			"api":"csp_Xpg",
 			"searchable":1,
 			"quickSearch":1,
 			"changeable":1,
-			"jar":"https://gitee.com/RTXRui/tvfile/raw/master/fty.jar"
+			"jar":"https://gitee.com/RTXRui/tvfile/raw/master/danmu.jar"
 		},
 		{
 			"key":"比特",
@@ -79,17 +80,14 @@
 			"changeable":1,
 			"jar":"https://gitee.com/RTXRui/tvfile/raw/master/fty.jar"
 		},
-		{
-			"key":"Lib",
-			"name":"Libvio",
-			"type":3,
-			"api":"csp_Libvio",
-			"searchable":1,
-			"quickSearch":1,
-			"changeable":1,
-			"ext":"https://www.libvio.fun",
-			"jar":"https://gitee.com/RTXRui/tvfile/raw/master/fty.jar"
-		},
+    		{
+      			"key":"在线之家",
+      			"name":"在线之家",
+      			"type":3,
+      			"api":"csp_Wexzxzj",
+      			"searchable":1,
+      			"changeable":1
+   		},
 		{
 			"key":"追剧",
 			"name":"追剧",
@@ -132,14 +130,12 @@
             		"quickSearch":1
         	},
 		{
-            		"key":"csp_Web608",
-			"name":"新视觉",
-            		"type":3,
-            		"api":"csp_Web608",
-            		"searchable":1,
-            		"quickSearch":1,
-            		"filterable":1,
-			"ext":"https://www.80yy3.com"
+            		"key": "酷看影视",
+            		"name": "酷看影视",
+            		"type": 3,
+            		"api": "csp_Wexkukantv",
+            		"searchable": 1,
+            		"changeable": 1
         	},
 		{
 			"key":"csp_ShiLiuDY",
@@ -162,26 +158,24 @@
 			"ext":"http://op.ysdqjs.cn"
 		},
 		{
-			"key":"厂长",
+			"key":"csp_Czzy",
 			"name":"厂长",
 			"type":3,
-			"api":"csp_Czsapp",
+			"api":"csp_Czzy",
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":1,
-			"ext":"https://czzy.top"
+			"ext":"https://czzy.top",
+			"jar":"https://gitee.com/RTXRui/tvfile/raw/master/danmu.jar"
 		},
 		{
-			"key":"csp_Nmys",
-			"name":"农民",
-			"type":3,
-			"api":"csp_Nmys",
-			"searchable":1,
-			"quickSearch":1,
-			"filterable":1,
-			"jar":"https://gitee.com/RTXRui/tvfile/raw/master/fty.jar",
-			"ext":"https://raw.staticdn.net/YLEDE/tvbox/master/xpath/nmys.json"
-		},
+      			"key":"csp_WexNmys",
+      			"name":"农民影视",
+      			"type":3,
+      			"api":"csp_WexNmys",
+      			"searchable":1,
+      			"changeable":1
+    		},
 		{
 			"key":"BT天堂",
 			"name":"BT天堂",
@@ -192,16 +186,15 @@
 			"filterable":1,
 			"ext":"https://raw.staticdn.net/PizazzGY/TVBox/main/XYQHiker/BT天堂.json"
 		},
-		{
-			"key":"DiDuan",
-			"name":"低端",
-			"type":3,
-			"api":"csp_Ddrk",
-			"searchable":1,
-			"quickSearch":1,
-			"changeable":1,
-			"jar":"https://gitee.com/RTXRui/tvfile/raw/master/fty.jar"
-		},
+        	{
+            		"key":"csp_Ddys",
+            		"name":"低端影视",
+            		"type":3,
+            		"api":"csp_Ddys",
+            		"searchable":1,
+            		"quickSearch":1,
+            		"filterable":1
+        	},
 		{
 			"key":"天天开心",
 			"name":"开心",
@@ -248,7 +241,22 @@
 				},
             		"jar":"https://gitee.com/RTXRui/tvfile/raw/master/danmu.jar"
         	},
-       		 {
+		{
+      			"key":"csp_YiSo",
+      			"name":"易搜",
+      			"type":3,
+      			"api":"csp_YiSo",
+      			"searchable":1,
+      			"filterable": 0,
+      			"changeable": 1,
+      			"ext":{
+        			"token": "http://127.0.0.1:9978/file/TVBox/token.txt",
+        			"danmu": true,
+        			"cookie": "satoken=60201207-5254-4d44-8ed9-db4ed5476163"
+      				},
+      			"jar":"https://gitee.com/RTXRui/tvfile/raw/master/danmu.jar"
+    		},
+       		{
             		"key":"csp_PanSearch",
             		"name":"盘搜",
             		"type":3,
@@ -262,16 +270,6 @@
             			},
             		"jar":"https://gitee.com/RTXRui/tvfile/raw/master/danmu.jar"
         	},
-		{
-			"key":csp_xBPQ_nkdy",
-			"name":"耐看",
-			"type":3,
-			"api":"csp_XBPQ",
-			"searchable":1,
-			"quickSearch":1,
-			"filterable":0,
-			"ext":"https://raw.staticdn.net/YLEDE/tvbox/master/xpath/nkdy.json"
-		},
 		{
 			"key":"csp_xBPQ_akys",
 			"name":"爱看",
