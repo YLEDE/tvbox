@@ -123,10 +123,10 @@
 			"quickSearch":1
 		},
 		{
-			"key":"木耳资源",
-			"name":"木耳",
+			"key":"飞刀资源",
+			"name":"飞刀",
 			"type":1,
-			"api":"https://json.heimuer.tv/api.php/provide/vod/?ac=list",
+			"api":"http://www.feidaozy.com/api.php/provide/vod?",
 			"searchable":1,
 			"quickSearch":1
 		},
@@ -262,14 +262,24 @@
 			"jar":"https://gitee.com/RTXRui/tvfile/raw/master/danmu.jar"
 		},
 		{
-			"key":"csp_xBPQ_ShiLiuDY",
+			"key":"csp_xBPQ_hmer",
+			"name":"木耳",
+			"api":"csp_XBPQ",
+			"type":3,
+			"filterable":1,
+			"quickSearch":1,
+			"searchable":1,
+			"ext":"https://raw.staticdn.net/YLEDE/tvbox/master/xpath/hmer.json"
+		},
+		{
+			"key":"csp_xBPQ_sldy",
 			"name":"石榴",
 			"api":"csp_XBPQ",
 			"type":3,
 			"filterable":1,
 			"quickSearch":1,
 			"searchable":1,
-			"ext":"https://raw.staticdn.net/YLEDE/tvbox/master/xpath/ShiLiuDY.json"
+			"ext":"https://raw.staticdn.net/YLEDE/tvbox/master/xpath/sldy.json"
 		},
 		{
 			"key":"csp_xBPQ_akys",
@@ -352,16 +362,6 @@
 			"ext":"https://raw.staticdn.net/YLEDE/dr_py/main/js/18哈.js"
 		},
 		{
-			"key":"drpy_js_cokemv",
-			"name":"cokemv",
-			"type":3,
-			"api":"https://raw.staticdn.net/YLEDE/dr_py/main/libs/drpy2.min.js",
-			"searchable":1,
-			"quickSearch":1,
-			"filterable":1,
-			"ext":"https://raw.staticdn.net/YLEDE/dr_py/main/js/cokemv.js"
-		},
-		{
 			"key":"drpy_js_B站",
 			"name":"B站",
 			"type":3,
@@ -370,26 +370,6 @@
 			"quickSearch":1,
 			"filterable":1,
 			"ext":"https://raw.staticdn.net/YLEDE/dr_py/main/js/B站影视.js"
-		},
-		{
-			"key":"drpy_js_兄弟",
-			"name":"兄弟",
-			"type":3,
-			"api":"https://raw.staticdn.net/YLEDE/dr_py/main/libs/drpy2.min.js",
-			"searchable":1,
-			"quickSearch":1,
-			"filterable":1,
-			"ext":"https://raw.staticdn.net/YLEDE/dr_py/main/js/兄弟影视.js"
-		},
-		{
-			"key":"drpy_js_孜然",
-			"name":"孜然",
-			"type":3,
-			"api":"https://raw.staticdn.net/YLEDE/dr_py/main/libs/drpy2.min.js",
-			"searchable":1,
-			"quickSearch":1,
-			"filterable":1,
-			"ext":"https://raw.staticdn.net/YLEDE/dr_py/main/js/孜然影视.js"
 		},
 		{
 			"key":"drpy_js_朴樱",
@@ -402,14 +382,14 @@
 			"ext":"https://raw.staticdn.net/YLEDE/dr_py/main/js/朴樱影视.js"
 		},
 		{
-			"key":"drpy_js_网飞TV",
-			"name":"网飞",
+			"key":"drpy_js_大师兄",
+			"name":"大师兄",
 			"type":3,
 			"api":"https://raw.staticdn.net/YLEDE/dr_py/main/libs/drpy2.min.js",
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":1,
-			"ext":"https://raw.staticdn.net/YLEDE/dr_py/main/js/网飞.TV.js"
+			"ext":"https://raw.staticdn.net/YLEDE/dr_py/main/js/大师兄.js"
 		},
 		{
 			"key":"csp_xBPQ_TVB云播",
@@ -430,16 +410,6 @@
 			"quickSearch":1,
 			"filterable":0,
 			"ext":"https://raw.staticdn.net/YLEDE/tvbox/master/xpath/kanlm.json"
-		},
-		{
-			"key":"csp_xBPQ_suying",
-			"name":"速映",
-			"type":3,
-			"api":"csp_XBPQ",
-			"searchable":1,
-			"quickSearch":1,
-			"filterable":1,
-			"ext":"https://raw.staticdn.net/YLEDE/tvbox/master/xpath/syys.json"
 		},
 		{
 			"key":"csp_xBPQ_lgg",
