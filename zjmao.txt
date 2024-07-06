@@ -106,13 +106,14 @@
 			"ext":"http://api2.rinhome.com"
 		},
 		{
-			"key":"csp_sn",
-			"name":"索尼",
-			"type":1,
-			"api":"https://suoniapi.com/api.php/provide/vod/",
-			"searchable":1,
-			"quickSearch":1
-		},
+            		"key":"csp_Keke",
+            		"name":"可可影视",
+            		"type":3,
+            		"api":"csp_Keke",
+            		"searchable":1,
+            		"quickSearch":1,
+            		"filterable":1
+        	},
 		{
 			"key":"csp_feisu",
 			"name":"飞速",
@@ -429,16 +430,6 @@
 			"quickSearch":1,
 			"filterable":0,
 			"ext":"https://raw.staticdn.net/YLEDE/tvbox/master/xpath/tvb.json"
-		},
-		{
-			"key":"csp_xBPQ_buka",
-			"name":"真不卡",
-			"type":3,
-			"api":"csp_XBPQ",
-			"searchable":1,
-			"quickSearch":1,
-			"filterable":0,
-			"ext":"https://raw.staticdn.net/YLEDE/tvbox/master/xpath/buka.json"
 		},
 		{
 			"key":"csp_xBPQ_kanlm",
