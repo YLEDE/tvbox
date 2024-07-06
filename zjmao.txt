@@ -342,16 +342,6 @@
 			"ext":"https://raw.staticdn.net/YLEDE/tvbox/master/xpath/348z.json"
 		},
 		{
-			"key":"csp_xBPQ_sbb",
-			"name":"素白白",
-			"type":3,
-			"api":"csp_XBPQ",
-			"searchable":1,
-			"quickSearch":1,
-			"filterable":0,
-			"ext":"https://raw.staticdn.net/YLEDE/tvbox/master/xpath/subaibai.json"
-		},
-		{
 			"key":"drpy_js_18哈",
 			"name":"18哈",
 			"type":3,
