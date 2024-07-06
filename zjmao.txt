@@ -389,7 +389,7 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":1,
-			"ext":"https://raw.staticdn.net/YLEDE/dr_py/main/js/大师兄.js"
+			"ext":"https://raw.staticdn.net/YLEDE/dr_py/main/js/大师兄影视.js.js"
 		},
 		{
 			"key":"csp_xBPQ_TVB云播",
