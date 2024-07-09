@@ -216,18 +216,20 @@
 			"jar":"https://gitee.com/RTXRui/tvfile/raw/master/danmu.jar"
 		},
 		{
-			"key":"csp_YiSo",
-			"name":"易搜",
+			"key":"csp_AliShare",
+			"name":"合集",
 			"type":3,
-			"api":"csp_YiSo",
+			"api":"csp_AliShare",
 			"searchable":1,
 			"filterable":0,
-			"changeable":1,
+			"changeable":0,
 			"ext":{
 				"token":"http://127.0.0.1:9978/file/TVBox/token.txt",
-				"danmu":true,
-				"cookie":"satoken=60201207-5254-4d44-8ed9-db4ed5476163"
+				"share":"https://raw.staticdn.net/PizazzGY/TVBox/main/JS/alishare.txt"
 			},
+			"style":{
+                		"type":"list"
+            		},
 			"jar":"https://gitee.com/RTXRui/tvfile/raw/master/danmu.jar"
 		},
 		{
