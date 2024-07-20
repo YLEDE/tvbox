@@ -158,7 +158,7 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":1,
-			"ext":"https://raw.staticdn.net/PizazzGY/TVBox/main/XYQHiker/BT天堂.json"
+			"ext":"raw.gitmirror.comPizazzGY/TVBox/main/XYQHiker/BT天堂.json"
 		},
 		{
 			"key":"csp_Ddys",
@@ -177,7 +177,7 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":1,
-			"ext":"https://raw.staticdn.net/YLEDE/tvbox/master/xpath/ttkx.json"
+			"ext":"raw.gitmirror.comYLEDE/tvbox/master/xpath/ttkx.json"
 		},
 		{
 			"key":"多多影音",
@@ -187,7 +187,7 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":1,
-			"ext":"https://raw.staticdn.net/YLEDE/tvbox/master/xpath/ddys.json"
+			"ext":"raw.gitmirror.comYLEDE/tvbox/master/xpath/ddys.json"
 		},
 		{
 			"key":"云盘资源",
@@ -197,7 +197,7 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":1,
-			"ext":"https://raw.staticdn.net/YLEDE/tvbox/master/xpath/ypzy.json"
+			"ext":"raw.gitmirror.comYLEDE/tvbox/master/xpath/ypzy.json"
 		},
 		{
 			"key":"csp_Wogg",
@@ -225,7 +225,7 @@
 			"changeable":0,
 			"ext":{
 				"token":"http://127.0.0.1:9978/file/TVBox/token.txt",
-				"share":"https://raw.staticdn.net/PizazzGY/TVBox/main/JS/alishare.txt"
+				"share":"raw.gitmirror.comPizazzGY/TVBox/main/JS/alishare.txt"
 			},
 			"style":{
                 		"type":"list"
@@ -254,7 +254,7 @@
 			"filterable":1,
 			"quickSearch":1,
 			"searchable":1,
-			"ext":"https://raw.staticdn.net/YLEDE/tvbox/master/xpath/hmer.json"
+			"ext":"raw.gitmirror.comYLEDE/tvbox/master/xpath/hmer.json"
 		},
 		{
 			"key":"csp_xBPQ_sldy",
@@ -264,7 +264,7 @@
 			"filterable":1,
 			"quickSearch":1,
 			"searchable":1,
-			"ext":"https://raw.staticdn.net/YLEDE/tvbox/master/xpath/sldy.json"
+			"ext":"raw.gitmirror.comYLEDE/tvbox/master/xpath/sldy.json"
 		},
 		{
 			"key":"csp_xBPQ_akys",
@@ -274,7 +274,7 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":0,
-			"ext":"https://raw.staticdn.net/YLEDE/tvbox/master/xpath/akys.json"
+			"ext":"raw.gitmirror.comYLEDE/tvbox/master/xpath/akys.json"
 		},
 		{
 			"key":"csp_xBPQ_rbzj",
@@ -284,7 +284,7 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":0,
-			"ext":"https://raw.staticdn.net/YLEDE/tvbox/master/xpath/rbzj.json"
+			"ext":"raw.gitmirror.comYLEDE/tvbox/master/xpath/rbzj.json"
 		},
 		{
 			"key":"csp_xBPQ_dmxq",
@@ -294,7 +294,7 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":0,
-			"ext":"https://raw.staticdn.net/YLEDE/tvbox/master/xpath/dmxq.json"
+			"ext":"raw.gitmirror.comYLEDE/tvbox/master/xpath/dmxq.json"
 		},
 		{
 			"key":"csp_xBPQ_bcys",
@@ -304,7 +304,7 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":0,
-			"ext":"https://raw.staticdn.net/YLEDE/tvbox/master/xpath/bcys.json"
+			"ext":"raw.gitmirror.comYLEDE/tvbox/master/xpath/bcys.json"
 		},
 		{
 			"key":"csp_xBPQ_555",
@@ -314,7 +314,7 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":0,
-			"ext":"https://raw.staticdn.net/YLEDE/tvbox/master/xpath/555.json"
+			"ext":"raw.gitmirror.comYLEDE/tvbox/master/xpath/555.json"
 		},
 		{
 			"key":"csp_xBPQ_Voflix",
@@ -324,7 +324,7 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":0,
-			"ext":"https://raw.staticdn.net/YLEDE/tvbox/master/xpath/voflix.json"
+			"ext":"raw.gitmirror.comYLEDE/tvbox/master/xpath/voflix.json"
 		},
 		{
 			"key":"csp_xBPQ_348",
@@ -334,47 +334,47 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":0,
-			"ext":"https://raw.staticdn.net/YLEDE/tvbox/master/xpath/348z.json"
+			"ext":"raw.gitmirror.comYLEDE/tvbox/master/xpath/348z.json"
 		},
 		{
 			"key":"drpy_js_18哈",
 			"name":"18哈",
 			"type":3,
-			"api":"https://raw.staticdn.net/YLEDE/dr_py/main/libs/drpy2.min.js",
+			"api":"raw.gitmirror.comYLEDE/dr_py/main/libs/drpy2.min.js",
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":1,
-			"ext":"https://raw.staticdn.net/YLEDE/dr_py/main/js/18哈.js"
+			"ext":"raw.gitmirror.comYLEDE/dr_py/main/js/18哈.js"
 		},
 		{
 			"key":"drpy_js_B站",
 			"name":"B站",
 			"type":3,
-			"api":"https://raw.staticdn.net/YLEDE/dr_py/main/libs/drpy2.min.js",
+			"api":"raw.gitmirror.comYLEDE/dr_py/main/libs/drpy2.min.js",
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":1,
-			"ext":"https://raw.staticdn.net/YLEDE/dr_py/main/js/B站影视.js"
+			"ext":"raw.gitmirror.comYLEDE/dr_py/main/js/B站影视.js"
 		},
 		{
 			"key":"drpy_js_朴樱",
 			"name":"朴樱",
 			"type":3,
-			"api":"https://raw.staticdn.net/YLEDE/dr_py/main/libs/drpy2.min.js",
+			"api":"raw.gitmirror.comYLEDE/dr_py/main/libs/drpy2.min.js",
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":1,
-			"ext":"https://raw.staticdn.net/YLEDE/dr_py/main/js/朴樱影视.js"
+			"ext":"raw.gitmirror.comYLEDE/dr_py/main/js/朴樱影视.js"
 		},
 		{
 			"key":"drpy_js_大师兄",
 			"name":"大师兄",
 			"type":3,
-			"api":"https://raw.staticdn.net/YLEDE/dr_py/main/libs/drpy2.min.js",
+			"api":"raw.gitmirror.comYLEDE/dr_py/main/libs/drpy2.min.js",
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":1,
-			"ext":"https://raw.staticdn.net/YLEDE/dr_py/main/js/大师兄影视.js"
+			"ext":"raw.gitmirror.comYLEDE/dr_py/main/js/大师兄影视.js"
 		},
 		{
 			"key":"csp_xBPQ_TVB云播",
@@ -384,7 +384,7 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":0,
-			"ext":"https://raw.staticdn.net/YLEDE/tvbox/master/xpath/tvb.json"
+			"ext":"raw.gitmirror.comYLEDE/tvbox/master/xpath/tvb.json"
 		},
 		{
 			"key":"csp_xBPQ_kanlm",
@@ -394,7 +394,7 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":0,
-			"ext":"https://raw.staticdn.net/YLEDE/tvbox/master/xpath/kanlm.json"
+			"ext":"raw.gitmirror.comYLEDE/tvbox/master/xpath/kanlm.json"
 		},
 		{
 			"key":"csp_xBPQ_lgg",
@@ -404,7 +404,7 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":0,
-			"ext":"https://raw.staticdn.net/YLEDE/tvbox/master/xpath/lgg.json"
+			"ext":"raw.gitmirror.comYLEDE/tvbox/master/xpath/lgg.json"
 		},
 		{
 			"key":"csp_xBPQ_wpxq",
@@ -414,7 +414,7 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":0,
-			"ext":"https://raw.staticdn.net/YLEDE/tvbox/master/xpath/wpxq.json"
+			"ext":"raw.gitmirror.comYLEDE/tvbox/master/xpath/wpxq.json"
 		}
 	],
 
