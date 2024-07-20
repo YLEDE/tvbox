@@ -177,7 +177,7 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":1,
-			"ext":"https://raw.gitmirror.com/YLEDE/tvbox/master/xpath/ttkx.json"
+			"ext":"https://gh.con.sh/https://raw.githubusercontent.com/YLEDE/tvbox/master/xpath/ttkx.json"
 		},
 		{
 			"key":"多多影音",
@@ -187,7 +187,7 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":1,
-			"ext":"https://raw.gitmirror.com/YLEDE/tvbox/master/xpath/ddys.json"
+			"ext":"https://gh.con.sh/https://raw.githubusercontent.com/YLEDE/tvbox/master/xpath/ddys.json"
 		},
 		{
 			"key":"云盘资源",
@@ -197,7 +197,7 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":1,
-			"ext":"https://raw.gitmirror.com/YLEDE/tvbox/master/xpath/ypzy.json"
+			"ext":"https://gh.con.sh/https://raw.githubusercontent.com/YLEDE/tvbox/master/xpath/ypzy.json"
 		},
 		{
 			"key":"csp_Wogg",
@@ -254,7 +254,7 @@
 			"filterable":1,
 			"quickSearch":1,
 			"searchable":1,
-			"ext":"https://raw.gitmirror.com/YLEDE/tvbox/master/xpath/hmer.json"
+			"ext":"https://gh.con.sh/https://raw.githubusercontent.com/YLEDE/tvbox/master/xpath/hmer.json"
 		},
 		{
 			"key":"csp_xBPQ_sldy",
@@ -264,7 +264,7 @@
 			"filterable":1,
 			"quickSearch":1,
 			"searchable":1,
-			"ext":"https://raw.gitmirror.com/YLEDE/tvbox/master/xpath/sldy.json"
+			"ext":"https://gh.con.sh/https://raw.githubusercontent.com/YLEDE/tvbox/master/xpath/sldy.json"
 		},
 		{
 			"key":"csp_xBPQ_akys",
@@ -274,7 +274,7 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":0,
-			"ext":"https://raw.gitmirror.com/YLEDE/tvbox/master/xpath/akys.json"
+			"ext":"https://gh.con.sh/https://raw.githubusercontent.com/YLEDE/tvbox/master/xpath/akys.json"
 		},
 		{
 			"key":"csp_xBPQ_rbzj",
@@ -284,7 +284,7 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":0,
-			"ext":"https://raw.gitmirror.com/YLEDE/tvbox/master/xpath/rbzj.json"
+			"ext":"https://gh.con.sh/https://raw.githubusercontent.com/YLEDE/tvbox/master/xpath/rbzj.json"
 		},
 		{
 			"key":"csp_xBPQ_dmxq",
@@ -294,7 +294,7 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":0,
-			"ext":"https://raw.gitmirror.com/YLEDE/tvbox/master/xpath/dmxq.json"
+			"ext":"https://gh.con.sh/https://raw.githubusercontent.com/YLEDE/tvbox/master/xpath/dmxq.json"
 		},
 		{
 			"key":"csp_xBPQ_bcys",
@@ -304,7 +304,7 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":0,
-			"ext":"https://raw.gitmirror.com/YLEDE/tvbox/master/xpath/bcys.json"
+			"ext":"https://gh.con.sh/https://raw.githubusercontent.com/YLEDE/tvbox/master/xpath/bcys.json"
 		},
 		{
 			"key":"csp_xBPQ_555",
@@ -314,7 +314,7 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":0,
-			"ext":"https://raw.gitmirror.com/YLEDE/tvbox/master/xpath/555.json"
+			"ext":"https://gh.con.sh/https://raw.githubusercontent.com/YLEDE/tvbox/master/xpath/555.json"
 		},
 		{
 			"key":"csp_xBPQ_Voflix",
@@ -324,7 +324,7 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":0,
-			"ext":"https://raw.gitmirror.com/YLEDE/tvbox/master/xpath/voflix.json"
+			"ext":"https://gh.con.sh/https://raw.githubusercontent.com/YLEDE/tvbox/master/xpath/voflix.json"
 		},
 		{
 			"key":"csp_xBPQ_348",
@@ -334,7 +334,7 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":0,
-			"ext":"https://raw.gitmirror.com/YLEDE/tvbox/master/xpath/348z.json"
+			"ext":"https://gh.con.sh/https://raw.githubusercontent.com/YLEDE/tvbox/master/xpath/348z.json"
 		},
 		{
 			"key":"drpy_js_18哈",
@@ -384,7 +384,7 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":0,
-			"ext":"https://raw.gitmirror.com/YLEDE/tvbox/master/xpath/tvb.json"
+			"ext":"https://gh.con.sh/https://raw.githubusercontent.com/YLEDE/tvbox/master/xpath/tvb.json"
 		},
 		{
 			"key":"csp_xBPQ_kanlm",
@@ -394,7 +394,7 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":0,
-			"ext":"https://raw.gitmirror.com/YLEDE/tvbox/master/xpath/kanlm.json"
+			"ext":"https://gh.con.sh/https://raw.githubusercontent.com/YLEDE/tvbox/master/xpath/kanlm.json"
 		},
 		{
 			"key":"csp_xBPQ_lgg",
@@ -404,7 +404,7 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":0,
-			"ext":"https://raw.gitmirror.com/YLEDE/tvbox/master/xpath/lgg.json"
+			"ext":"https://gh.con.sh/https://raw.githubusercontent.com/YLEDE/tvbox/master/xpath/lgg.json"
 		},
 		{
 			"key":"csp_xBPQ_wpxq",
@@ -414,7 +414,7 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":0,
-			"ext":"https://raw.gitmirror.com/YLEDE/tvbox/master/xpath/wpxq.json"
+			"ext":"https://gh.con.sh/https://raw.githubusercontent.com/YLEDE/tvbox/master/xpath/wpxq.json"
 		}
 	],
 
