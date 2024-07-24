@@ -213,7 +213,7 @@
 				"uc_cookie":"http://127.0.0.1:9978/file/TVBox/uc.txt",
 				"wogg":true,
 				"danmu":true
-			},
+				},
 			"jar":"https://gitee.com/RTXRui/tvfile/raw/master/danmu.jar"
 		},
 		{
