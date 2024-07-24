@@ -170,14 +170,14 @@
 			"filterable":1
 		},
 		{
-			"key":"天天开心",
-			"name":"开心",
+			"key":"哔嘀影视",
+			"name":"哔嘀",
 			"type":3,
-			"api":"csp_XYQHikerAL",
+			"api":"csp_XYQHiker",
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":1,
-			"ext":"https://raw.staticdn.net/YLEDE/tvbox/master/xpath/ttkx.json"
+			"ext":"https://raw.staticdn.net/YLEDE/tvbox/master/xpath/bdys.json"
 		},
 		{
 			"key":"csp_Wobg",
