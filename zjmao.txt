@@ -180,14 +180,20 @@
 			"ext":"https://raw.staticdn.net/YLEDE/tvbox/master/xpath/ttkx.json"
 		},
 		{
-			"key":"多多影音",
+			"key":"csp_Wobg",
 			"name":"多多",
 			"type":3,
-			"api":"csp_XYQHikerAL",
+			"api":"csp_Wobg",
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":1,
-			"ext":"https://raw.staticdn.net/YLEDE/tvbox/master/xpath/ddys.json"
+			"ext":{
+				"token":"http://127.0.0.1:9978/file/TVBox/token.txt",
+				"cookie":"http://127.0.0.1:9978/file/TVBox/quark.txt",
+				"site":"https://tv.yydsys.top",
+				"danmu":true
+				},
+			"jar":"https://gitee.com/RTXRui/tvfile/raw/master/danmu.jar"
 		},
 		{
 			"key":"云盘资源",
@@ -230,7 +236,7 @@
 			},
 			"style":{
                 		"type":"list"
-            		},
+            			},
 			"jar":"https://gitee.com/RTXRui/tvfile/raw/master/danmu.jar"
 		},
 		{
@@ -244,7 +250,7 @@
 			"ext":{
 				"token":"http://127.0.0.1:9978/file/TVBox/token.txt",
 				"danmu":true
-			},
+				},
 			"jar":"https://gitee.com/RTXRui/tvfile/raw/master/danmu.jar"
 		},
 		{
