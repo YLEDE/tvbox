@@ -180,26 +180,21 @@
 			"ext":"https://raw.staticdn.net/YLEDE/tvbox/master/xpath/bdys.json"
 		},
 		{
-			"key":"csp_wanou",
+			"key":"csp_Wogg",
 			"name":"玩偶",
+			"type":3,
 			"api":"csp_Wogg",
-			"type":3,
-			"searchable":1,
-			"playerType":2,
-			"timeout":30,
-			"changeable":0,
-			"ext":"https://wogg.888484.xyz/",
-			"jar":"https://gitee.com/RTXRui/tvfile/raw/master/xm.jar"
-		},
-		{
-			"key":"云盘资源",
-			"name":"资源",
-			"type":3,
-			"api":"csp_XYQHikerAL",
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":1,
-			"ext":"https://raw.staticdn.net/YLEDE/tvbox/master/xpath/ypzy.json"
+			"ext":{
+				"token":"http://127.0.0.1:9978/file/TVBox/token.txt",
+				"cookie":"http://127.0.0.1:9978/file/TVBox/quark.txt",
+				"uc_cookie":"http://127.0.0.1:9978/file/TVBox/uc.txt",
+				"site":"https://wogg.888484.xyz/",
+				"danmu":true
+				},
+			"jar":"https://gitee.com/RTXRui/tvfile/raw/master/danmu.jar"
 		},
 		{
 			"key":"csp_Wobg",
@@ -247,6 +242,16 @@
 				"danmu":true
 				},
 			"jar":"https://gitee.com/RTXRui/tvfile/raw/master/danmu.jar"
+		},
+		{
+			"key":"云盘资源",
+			"name":"资源",
+			"type":3,
+			"api":"csp_XYQHikerAL",
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":1,
+			"ext":"https://raw.staticdn.net/YLEDE/tvbox/master/xpath/ypzy.json"
 		},
 		{
 			"key":"csp_xBPQ_hmer",
