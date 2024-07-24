@@ -180,6 +180,18 @@
 			"ext":"https://raw.staticdn.net/YLEDE/tvbox/master/xpath/bdys.json"
 		},
 		{
+			"key":"csp_wanou",
+			"name":"玩偶",
+			"api":"csp_Wogg",
+			"type":3,
+			"searchable":1,
+			"playerType":2,
+			"timeout":30,
+			"changeable":0,
+			"ext":"https://wogg.888484.xyz/",
+			"jar":"https://gitee.com/RTXRui/tvfile/raw/master/xm.jar"
+		},
+		{
 			"key":"云盘资源",
 			"name":"资源",
 			"type":3,
@@ -204,18 +216,6 @@
 				"danmu":true
 				},
 			"jar":"https://gitee.com/RTXRui/tvfile/raw/master/danmu.jar"
-		},
-		{
-			"key":"csp_wanou",
-			"name":"玩偶",
-			"api":"csp_Wogg",
-			"type":3,
-			"searchable":1,
-			"playerType":2,
-			"timeout":30,
-			"changeable":0,
-			"ext":"https://wogg.888484.xyz/",
-			"jar":"https://gitee.com/RTXRui/tvfile/raw/master/xm.jar"
 		},
 		{
 			"key":"csp_AliShare",
