@@ -191,7 +191,7 @@
 				"token":"http://127.0.0.1:9978/file/TVBox/token.txt",
 				"cookie":"http://127.0.0.1:9978/file/TVBox/quark.txt",
 				"uc_cookie":"http://127.0.0.1:9978/file/TVBox/uc.txt",
-				"site":"https://wogg.888484.xyz/",
+				"site":"http://wogg.xxooo.cf/",
 				"danmu":true
 				},
 			"jar":"https://gitee.com/RTXRui/tvfile/raw/master/danmu.jar"
