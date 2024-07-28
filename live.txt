@@ -106,7 +106,7 @@ CCTV-17农业,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch000000909900000
 CCTV-17农业,http://zteres.sn.chinamobile.com:6060/000000001000/1000000005000265015/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265015&livemode=1&stbId=3
 
 CCTV-4K超高清,http://159.75.85.63:5679/cctv4k.php
-CCTV-4K超高清,http://zteres.sn.chinamobile.com:6060/000000001000/1000000004000011651/1.m3u8?channel-id=ystenlive&Contentid=1000000004000011651&livemode=1&stbId=3
+CCTV-4K超高清,http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
 
 卫视,#genre#
 湖南卫视,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226307/index.m3u8
