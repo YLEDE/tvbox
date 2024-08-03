@@ -110,6 +110,14 @@
 			"changeable":1
 		},
 		{
+			"key":"素白白",
+			"name":"素白白",
+			"type":3,
+			"api":"csp_Subaibai",
+			"searchable":1,
+			"changeable":1
+		},
+		{
 			"key":"csp_JianPian",
 			"name":"荐片",
 			"type":3,
@@ -120,32 +128,22 @@
 			"ext":"http://112.124.0.131:20000"
 		},
 		{
-			"key":"csp_Subaibai",
-			"name":"素白白",
-			"type":3,
-			"api":"csp_Subaibai",
-			"searchable":1,
-			"quickSearch":1,
-			"filterable":1,
-			"ext":"https://www.subaibaiys.com"
-		},
-		{
-			"key":"csp_Wexbttwo",
-			"name":"比特",
-			"type":3,
-			"api":"csp_Wexbttwo",
-			"searchable":1,
-			"quickSearch":1,
-			"filterable":1,
-			"ext":"https://www.bttwoo.com"
-		},
-		{
 			"key":"csp_feisu",
 			"name":"飞速",
 			"type":1,
 			"api":"https://www.feisuzy.com/api.php/provide/vod/",
 			"searchable":1,
 			"quickSearch":1
+		},
+		{
+			"key":"csp_Bttwoo",
+			"name":"比特",
+			"type":3,
+			"api":"csp_Bttwoo",
+			"searchable":1,
+			"quickSearch":1,
+			"changeable":1,
+			"jar":"https://gitee.com/RTXRui/tvfile/raw/master/fty.jar"
 		},
 		{
 			"key":"csp_Yqk",
