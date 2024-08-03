@@ -8,7 +8,7 @@
 		{
 			"name":"live",
 			"type":0,
-			"url":"https://gh.api.99988866.xyz/https://raw.githubusercontent.com/YLEDE/tvbox/master/live.txt",
+			"url":"https://raw.gitmirror.com/YLEDE/tvbox/master/live.txt",
 			"playerType":1,
 			"epg":"http://epg.112114.eu.org/?ch={name}&date={date}"
 		}
@@ -194,7 +194,7 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":1,
-			"ext":"https://gh.api.99988866.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/XYQHiker/BT天堂.json"
+			"ext":"https://raw.gitmirror.com/PizazzGY/TVBox/main/XYQHiker/BT天堂.json"
 		},
 		{
 			"key":"哔嘀影视",
@@ -204,7 +204,7 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":1,
-			"ext":"https://gh.api.99988866.xyz/https://raw.githubusercontent.com/YLEDE/tvbox/master/xpath/bdys.json"
+			"ext":"https://raw.gitmirror.com/YLEDE/tvbox/master/xpath/bdys.json"
 		},
 		{
 			"key":"csp_Wogg",
@@ -247,7 +247,7 @@
 			"filterable":1,
 			"quickSearch":1,
 			"searchable":1,
-			"ext":"https://gh.api.99988866.xyz/https://raw.githubusercontent.com/YLEDE/tvbox/master/xpath/hmer.json"
+			"ext":"https://raw.gitmirror.com/YLEDE/tvbox/master/xpath/hmer.json"
 		},
 		{
 			"key":"csp_xBPQ_sldy",
@@ -257,7 +257,7 @@
 			"filterable":1,
 			"quickSearch":1,
 			"searchable":1,
-			"ext":"https://gh.api.99988866.xyz/https://raw.githubusercontent.com/YLEDE/tvbox/master/xpath/sldy.json"
+			"ext":"https://raw.gitmirror.com/YLEDE/tvbox/master/xpath/sldy.json"
 		},
 		{
 			"key":"csp_xBPQ_rbzj",
@@ -267,7 +267,7 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":0,
-			"ext":"https://gh.api.99988866.xyz/https://raw.githubusercontent.com/YLEDE/tvbox/master/xpath/rbzj.json"
+			"ext":"https://raw.gitmirror.com/YLEDE/tvbox/master/xpath/rbzj.json"
 		},
 		{
 			"key":"csp_xBPQ_dmxq",
@@ -277,7 +277,7 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":0,
-			"ext":"https://gh.api.99988866.xyz/https://raw.githubusercontent.com/YLEDE/tvbox/master/xpath/dmxq.json"
+			"ext":"https://raw.gitmirror.com/YLEDE/tvbox/master/xpath/dmxq.json"
 		},
 		{
 			"key":"csp_xBPQ_bcys",
@@ -287,7 +287,7 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":0,
-			"ext":"https://gh.api.99988866.xyz/https://raw.githubusercontent.com/YLEDE/tvbox/master/xpath/bcys.json"
+			"ext":"https://raw.gitmirror.com/YLEDE/tvbox/master/xpath/bcys.json"
 		},
 		{
 			"key":"csp_xBPQ_555",
@@ -297,7 +297,7 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":0,
-			"ext":"https://gh.api.99988866.xyz/https://raw.githubusercontent.com/YLEDE/tvbox/master/xpath/555.json"
+			"ext":"https://raw.gitmirror.com/YLEDE/tvbox/master/xpath/555.json"
 		},
 		{
 			"key":"csp_xBPQ_Voflix",
@@ -307,7 +307,7 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":0,
-			"ext":"https://gh.api.99988866.xyz/https://raw.githubusercontent.com/YLEDE/tvbox/master/xpath/voflix.json"
+			"ext":"https://raw.gitmirror.com/YLEDE/tvbox/master/xpath/voflix.json"
 		},
 		{
 			"key":"csp_xBPQ_348",
@@ -317,47 +317,47 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":0,
-			"ext":"https://gh.api.99988866.xyz/https://raw.githubusercontent.com/YLEDE/tvbox/master/xpath/348z.json"
+			"ext":"https://raw.gitmirror.com/YLEDE/tvbox/master/xpath/348z.json"
 		},
 		{
 			"key":"drpy_js_18哈",
 			"name":"18哈",
 			"type":3,
-			"api":"https://gh.api.99988866.xyz/https://raw.githubusercontent.com/YLEDE/dr_py/main/libs/drpy2.min.js",
+			"api":"https://raw.gitmirror.com/YLEDE/dr_py/main/libs/drpy2.min.js",
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":1,
-			"ext":"https://gh.api.99988866.xyz/https://raw.githubusercontent.com/YLEDE/dr_py/main/js/18哈.js"
+			"ext":"https://raw.gitmirror.com/YLEDE/dr_py/main/js/18哈.js"
 		},
 		{
 			"key":"drpy_js_B站",
 			"name":"B站",
 			"type":3,
-			"api":"https://gh.api.99988866.xyz/https://raw.githubusercontent.com/YLEDE/dr_py/main/libs/drpy2.min.js",
+			"api":"https://raw.gitmirror.com/YLEDE/dr_py/main/libs/drpy2.min.js",
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":1,
-			"ext":"https://gh.api.99988866.xyz/https://raw.githubusercontent.com/YLEDE/dr_py/main/js/B站影视.js"
+			"ext":"https://raw.gitmirror.com/YLEDE/dr_py/main/js/B站影视.js"
 		},
 		{
 			"key":"drpy_js_朴樱",
 			"name":"朴樱",
 			"type":3,
-			"api":"https://gh.api.99988866.xyz/https://raw.githubusercontent.com/YLEDE/dr_py/main/libs/drpy2.min.js",
+			"api":"https://raw.gitmirror.com/YLEDE/dr_py/main/libs/drpy2.min.js",
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":1,
-			"ext":"https://gh.api.99988866.xyz/https://raw.githubusercontent.com/YLEDE/dr_py/main/js/朴樱影视.js"
+			"ext":"https://raw.gitmirror.com/YLEDE/dr_py/main/js/朴樱影视.js"
 		},
 		{
 			"key":"drpy_js_大师兄",
 			"name":"大师兄",
 			"type":3,
-			"api":"https://gh.api.99988866.xyz/https://raw.githubusercontent.com/YLEDE/dr_py/main/libs/drpy2.min.js",
+			"api":"https://raw.gitmirror.com/YLEDE/dr_py/main/libs/drpy2.min.js",
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":1,
-			"ext":"https://gh.api.99988866.xyz/https://raw.githubusercontent.com/YLEDE/dr_py/main/js/大师兄影视.js"
+			"ext":"https://raw.gitmirror.com/YLEDE/dr_py/main/js/大师兄影视.js"
 		},
 		{
 			"key":"csp_xBPQ_TVB云播",
@@ -367,7 +367,7 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":0,
-			"ext":"https://gh.api.99988866.xyz/https://raw.githubusercontent.com/YLEDE/tvbox/master/xpath/tvb.json"
+			"ext":"https://raw.gitmirror.com/YLEDE/tvbox/master/xpath/tvb.json"
 		},
 		{
 			"key":"csp_xBPQ_kanlm",
@@ -377,7 +377,7 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":0,
-			"ext":"https://gh.api.99988866.xyz/https://raw.githubusercontent.com/YLEDE/tvbox/master/xpath/kanlm.json"
+			"ext":"https://raw.gitmirror.com/YLEDE/tvbox/master/xpath/kanlm.json"
 		},
 		{
 			"key":"csp_xBPQ_lgg",
@@ -387,7 +387,7 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":0,
-			"ext":"https://gh.api.99988866.xyz/https://raw.githubusercontent.com/YLEDE/tvbox/master/xpath/lgg.json"
+			"ext":"https://raw.gitmirror.com/YLEDE/tvbox/master/xpath/lgg.json"
 		},
 		{
 			"key":"csp_xBPQ_wpxq",
@@ -397,7 +397,7 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":0,
-			"ext":"https://gh.api.99988866.xyz/https://raw.githubusercontent.com/YLEDE/tvbox/master/xpath/wpxq.json"
+			"ext":"https://raw.gitmirror.com/YLEDE/tvbox/master/xpath/wpxq.json"
 		}
 	],
 
