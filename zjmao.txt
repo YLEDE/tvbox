@@ -6,10 +6,11 @@
 	"lives":
 	[
 		{
-			"group":"redirect","channels":
-			[{
-				"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuc3RhdGljZG4ubmV0L1lMRURFL3R2Ym94L21hc3Rlci9saXZlLnR4dA=="]
-			}]
+			"name":"live",
+			"type":0,
+			"url":"https://gh.api.99988866.xyz/https://raw.githubusercontent.com/YLEDE/tvbox/master/live.txt",
+			"playerType":1,
+			"epg":"http://epg.112114.eu.org/?ch={name}&date={date}"
 		}
 	],
 
