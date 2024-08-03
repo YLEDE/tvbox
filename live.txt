@@ -8,6 +8,7 @@ CCTV-1综合,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/888
 CCTV-2财经,http://iptviptv.site:9694/hls/2/index.m3u8
 CCTV-2财经,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226540/index.m3u8
 CCTV-2财经,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010211/index.m3u8
+CCTV-2财经,https://epg.pw/stream/f86540c126a751cc707e3805911549bd077fb5a7f0f53a824212d75addea3747.m3u8
 CCTV-2财经,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8
 
 CCTV-3综艺,http://iptviptv.site:9694/hls/3/index.m3u8
