@@ -33,60 +33,21 @@
 			"filterable":1
 		},
 		{
-			"key":"csp_Yqk",
-			"name":"一起看",
-			"type":3,
-			"api":"csp_Yqk",
-			"searchable":1,
-			"quickSearch":1,
-			"changeable":1,
-			"jar":"https://gitee.com/RTXRui/tvfile/raw/master/danmu.jar"
-		},
-		{
-			"key":"素白白",
-			"name":"素白白",
-			"type":3,
-			"api":"csp_Subaibai",
-			"searchable":1,
-			"changeable":1
-		},
-		{
-			"key":"csp_Xpg",
-			"name":"小苹果",
-			"type":3,
-			"api":"csp_Xpg",
-			"searchable":1,
-			"quickSearch":1,
-			"changeable":1,
-			"jar":"https://gitee.com/RTXRui/tvfile/raw/master/danmu.jar"
-		},
-		{
-			"key":"csp_Nkdy",
-			"name":"耐看",
-			"type":3,
-			"api":"csp_Nkdy",
-			"searchable":1,
-			"quickSearch":1,
-			"changeable":1,
-			"jar":"https://gitee.com/RTXRui/tvfile/raw/master/xm.jar"
-		},
-		{
 			"key":"在线之家",
 			"name":"在线",
 			"type":3,
 			"api":"csp_Wexzxzj",
 			"searchable":1,
 			"changeable":1
-		},
+		},		
 		{
-			"key":"csp_JianPian",
-			"name":"荐片",
+			"key":"csp_Ddys",
+			"name":"低端",
 			"type":3,
-			"api":"csp_JianPian",
+			"api":"csp_Ddys",
 			"searchable":1,
 			"quickSearch":1,
-			"filterable":1,
-			"ext":"http://112.124.0.131:20000"
+			"filterable":1
 		},
 		{
             		"key":"csp_Keke",
@@ -98,12 +59,12 @@
             		"filterable":1
         	},
 		{
-			"key":"csp_feisu",
-			"name":"飞速",
-			"type":1,
-			"api":"https://www.feisuzy.com/api.php/provide/vod/",
+			"key":"csp_Subaibai",
+			"name":"素白白",
+			"type":3,
+			"api":"csp_Subaibai",
 			"searchable":1,
-			"quickSearch":1
+			"changeable":1
 		},
 		{
 			"key":"csp_Zx1080",
@@ -148,6 +109,71 @@
 			"filterable":1
 		},
 		{
+			"key":"csp_WexNmys",
+			"name":"农民",
+			"type":3,
+			"api":"csp_WexNmys",
+			"searchable":1,
+			"changeable":1
+		},
+		{
+			"key":"csp_JianPian",
+			"name":"荐片",
+			"type":3,
+			"api":"csp_JianPian",
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":1,
+			"ext":"http://112.124.0.131:20000"
+		},
+		{
+			"key":"csp_Wexbttwo",
+			"name":"比特",
+			"type":3,
+			"api":"csp_Wexbttwo",
+			"searchable":1,
+			"changeable":1,
+			"ext":"https://www.bttwoo.com"
+		},
+		{
+			"key":"csp_feisu",
+			"name":"飞速",
+			"type":1,
+			"api":"https://www.feisuzy.com/api.php/provide/vod/",
+			"searchable":1,
+			"quickSearch":1
+		},
+		{
+			"key":"csp_Yqk",
+			"name":"一起看",
+			"type":3,
+			"api":"csp_Yqk",
+			"searchable":1,
+			"quickSearch":1,
+			"changeable":1,
+			"jar":"https://gitee.com/RTXRui/tvfile/raw/master/danmu.jar"
+		},
+		{
+			"key":"csp_Xpg",
+			"name":"小苹果",
+			"type":3,
+			"api":"csp_Xpg",
+			"searchable":1,
+			"quickSearch":1,
+			"changeable":1,
+			"jar":"https://gitee.com/RTXRui/tvfile/raw/master/danmu.jar"
+		},
+		{
+			"key":"csp_Nkdy",
+			"name":"耐看",
+			"type":3,
+			"api":"csp_Nkdy",
+			"searchable":1,
+			"quickSearch":1,
+			"changeable":1,
+			"jar":"https://gitee.com/RTXRui/tvfile/raw/master/xm.jar"
+		},
+		{
 			"key":"csp_Czzy",
 			"name":"厂长",
 			"type":3,
@@ -159,14 +185,6 @@
 			"jar":"https://gitee.com/RTXRui/tvfile/raw/master/danmu.jar"
 		},
 		{
-			"key":"csp_WexNmys",
-			"name":"农民",
-			"type":3,
-			"api":"csp_WexNmys",
-			"searchable":1,
-			"changeable":1
-		},
-		{
 			"key":"BT天堂",
 			"name":"BT天堂",
 			"type":3,
@@ -175,15 +193,6 @@
 			"quickSearch":1,
 			"filterable":1,
 			"ext":"https://raw.staticdn.net/PizazzGY/TVBox/main/XYQHiker/BT天堂.json"
-		},
-		{
-			"key":"csp_Ddys",
-			"name":"低端",
-			"type":3,
-			"api":"csp_Ddys",
-			"searchable":1,
-			"quickSearch":1,
-			"filterable":1
 		},
 		{
 			"key":"哔嘀影视",
