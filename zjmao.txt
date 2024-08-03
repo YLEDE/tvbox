@@ -59,14 +59,6 @@
             		"filterable":1
         	},
 		{
-			"key":"csp_Subaibai",
-			"name":"素白白",
-			"type":3,
-			"api":"csp_Subaibai",
-			"searchable":1,
-			"changeable":1
-		},
-		{
 			"key":"csp_Zx1080",
 			"name":"最新",
 			"type":3,
@@ -125,6 +117,15 @@
 			"quickSearch":1,
 			"filterable":1,
 			"ext":"http://112.124.0.131:20000"
+		},
+		{
+			"key":"csp_Subaibai",
+			"name":"素白白",
+			"type":3,
+			"api":"csp_Subaibai",
+			"searchable":1,
+			"changeable":1,
+			"ext":"https://www.subaibaiys.com"
 		},
 		{
 			"key":"csp_Wexbttwo",
