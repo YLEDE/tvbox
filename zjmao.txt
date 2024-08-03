@@ -125,7 +125,8 @@
 			"type":3,
 			"api":"csp_Subaibai",
 			"searchable":1,
-			"changeable":1,
+			"quickSearch":1,
+			"filterable":1,
 			"ext":"https://www.subaibaiys.com"
 		},
 		{
@@ -134,7 +135,8 @@
 			"type":3,
 			"api":"csp_Wexbttwo",
 			"searchable":1,
-			"changeable":1,
+			"quickSearch":1,
+			"filterable":1,
 			"ext":"https://www.bttwoo.com"
 		},
 		{
