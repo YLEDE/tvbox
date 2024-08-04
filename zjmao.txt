@@ -110,7 +110,7 @@
 			"changeable":1
 		},
 		{
-			"key":"素白白",
+			"key":"csp_Subaibai",
 			"name":"素白白",
 			"type":3,
 			"api":"csp_Subaibai",
