@@ -110,16 +110,6 @@
 			"changeable":1
 		},
 		{
-			"key":"csp_Subaibai",
-			"name":"素白白",
-			"type":3,
-			"api":"csp_Subaibai",
-			"searchable":1,
-			"quickSearch":1,
-			"filterable":1,
-			"ext":"https://www.subaibai.com/"
-		},
-		{
 			"key":"csp_JianPian",
 			"name":"荐片",
 			"type":3,
@@ -242,13 +232,23 @@
 			"jar":"https://gitee.com/RTXRui/tvfile/raw/master/danmu.jar"
 		},
 		{
+			"key":"csp_Subaibai",
+			"name":"素白白",
+			"type":3,
+			"api":"csp_XBPQ",
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":1,
+			"ext":"https://raw.githubusercontents.com/YLEDE/tvbox/master/xpath/subaibai.json"
+		},
+		{
 			"key":"csp_xBPQ_hmer",
 			"name":"木耳",
 			"api":"csp_XBPQ",
 			"type":3,
-			"filterable":1,
-			"quickSearch":1,
 			"searchable":1,
+			"quickSearch":1,
+			"filterable":0,
 			"ext":"https://raw.githubusercontents.com/YLEDE/tvbox/master/xpath/hmer.json"
 		},
 		{
@@ -256,9 +256,9 @@
 			"name":"石榴",
 			"api":"csp_XBPQ",
 			"type":3,
-			"filterable":1,
-			"quickSearch":1,
 			"searchable":1,
+			"quickSearch":1,
+			"filterable":1,
 			"ext":"https://raw.githubusercontents.com/YLEDE/tvbox/master/xpath/sldy.json"
 		},
 		{
