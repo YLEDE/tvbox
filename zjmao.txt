@@ -115,7 +115,9 @@
 			"type":3,
 			"api":"csp_Subaibai",
 			"searchable":1,
-			"changeable":1
+			"quickSearch":1,
+			"filterable":1,
+			"ext":"https://www.subaibai.com/"
 		},
 		{
 			"key":"csp_JianPian",
