@@ -8,7 +8,7 @@
 		{
 			"name":"live",
 			"type":0,
-			"url":"https://raw.githubusercontents.com/YLEDE/tvbox/master/live.txt",
+			"url":"https://gitlab.com/YLEDE/tvbox/raw/master/live.txt",
 			"playerType":1,
 			"epg":"http://epg.112114.eu.org/?ch={name}&date={date}"
 		}
@@ -110,6 +110,16 @@
 			"changeable":1
 		},
 		{
+			"key":"csp_Mp4Mov",
+			"name":"Mp4电影",
+			"type":3,
+			"api":"csp_Mp4Mov",
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":1,
+			"playerType":2
+		},
+		{
 			"key":"csp_JianPian",
 			"name":"荐片",
 			"type":3,
@@ -117,6 +127,7 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":1,
+			"playerType":2,
 			"ext":"http://112.124.0.131:20000"
 		},
 		{
@@ -179,16 +190,6 @@
 			"jar":"https://gitee.com/RTXRui/tvfile/raw/master/danmu.jar"
 		},
 		{
-			"key":"BT天堂",
-			"name":"BT天堂",
-			"type":3,
-			"api":"csp_XYQHiker",
-			"searchable":1,
-			"quickSearch":1,
-			"filterable":1,
-			"ext":"https://raw.githubusercontents.com/PizazzGY/TVBox/main/XYQHiker/BT天堂.json"
-		},
-		{
 			"key":"哔嘀影视",
 			"name":"哔嘀",
 			"type":3,
@@ -196,7 +197,7 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":1,
-			"ext":"https://raw.githubusercontents.com/YLEDE/tvbox/master/xpath/bdys.json"
+			"ext":"https://gitlab.com/YLEDE/tvbox/raw/master/xpath/bdys.json"
 		},
 		{
 			"key":"csp_Wogg",
@@ -216,17 +217,14 @@
 			"jar":"https://gitee.com/RTXRui/tvfile/raw/master/danmu.jar"
 		},
 		{
-			"key":"csp_Wobg",
-			"name":"多多",
+			"key":"csp_Jpys",
+			"name":"文采",
 			"type":3,
-			"api":"csp_Wobg",
+			"api":"csp_Jpys",
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":1,
 			"ext":{
-				"token":"http://127.0.0.1:9978/file/TVBox/token.txt",
-				"cookie":"http://127.0.0.1:9978/file/TVBox/quark.txt",
-				"site":"https://tv.yydsys.top",
 				"danmu":true
 				},
 			"jar":"https://gitee.com/RTXRui/tvfile/raw/master/danmu.jar"
@@ -239,7 +237,7 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":1,
-			"ext":"https://raw.githubusercontents.com/YLEDE/tvbox/master/xpath/subaibai.json"
+			"ext":"https://gitlab.com/YLEDE/tvbox/raw/master/xpath/subaibai.json"
 		},
 		{
 			"key":"csp_xBPQ_hmer",
@@ -249,7 +247,7 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":0,
-			"ext":"https://raw.githubusercontents.com/YLEDE/tvbox/master/xpath/hmer.json"
+			"ext":"https://gitlab.com/YLEDE/tvbox/raw/master/xpath/hmer.json"
 		},
 		{
 			"key":"csp_xBPQ_sldy",
@@ -259,7 +257,7 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":1,
-			"ext":"https://raw.githubusercontents.com/YLEDE/tvbox/master/xpath/sldy.json"
+			"ext":"https://gitlab.com/YLEDE/tvbox/raw/master/xpath/sldy.json"
 		},
 		{
 			"key":"csp_xBPQ_rbzj",
@@ -269,7 +267,7 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":0,
-			"ext":"https://raw.githubusercontents.com/YLEDE/tvbox/master/xpath/rbzj.json"
+			"ext":"https://gitlab.com/YLEDE/tvbox/raw/master/xpath/rbzj.json"
 		},
 		{
 			"key":"csp_xBPQ_dmxq",
@@ -279,7 +277,7 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":0,
-			"ext":"https://raw.githubusercontents.com/YLEDE/tvbox/master/xpath/dmxq.json"
+			"ext":"https://gitlab.com/YLEDE/tvbox/raw/master/xpath/dmxq.json"
 		},
 		{
 			"key":"csp_xBPQ_bcys",
@@ -289,7 +287,7 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":0,
-			"ext":"https://raw.githubusercontents.com/YLEDE/tvbox/master/xpath/bcys.json"
+			"ext":"https://gitlab.com/YLEDE/tvbox/raw/master/xpath/bcys.json"
 		},
 		{
 			"key":"csp_xBPQ_555",
@@ -299,17 +297,7 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":0,
-			"ext":"https://raw.githubusercontents.com/YLEDE/tvbox/master/xpath/555.json"
-		},
-		{
-			"key":"csp_xBPQ_Voflix",
-			"name":"VOFLIX",
-			"type":3,
-			"api":"csp_XBPQ",
-			"searchable":1,
-			"quickSearch":1,
-			"filterable":0,
-			"ext":"https://raw.githubusercontents.com/YLEDE/tvbox/master/xpath/voflix.json"
+			"ext":"https://gitlab.com/YLEDE/tvbox/raw/master/xpath/555.json"
 		},
 		{
 			"key":"csp_xBPQ_348",
@@ -319,47 +307,27 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":0,
-			"ext":"https://raw.githubusercontents.com/YLEDE/tvbox/master/xpath/348z.json"
-		},
-		{
-			"key":"drpy_js_18哈",
-			"name":"18哈",
-			"type":3,
-			"api":"https://raw.githubusercontents.com/YLEDE/dr_py/main/libs/drpy2.min.js",
-			"searchable":1,
-			"quickSearch":1,
-			"filterable":1,
-			"ext":"https://raw.githubusercontents.com/YLEDE/dr_py/main/js/18哈.js"
+			"ext":"https://gitlab.com/YLEDE/tvbox/raw/master/xpath/348z.json"
 		},
 		{
 			"key":"drpy_js_B站",
 			"name":"B站",
 			"type":3,
-			"api":"https://raw.githubusercontents.com/YLEDE/dr_py/main/libs/drpy2.min.js",
+			"api":"https://gitlab.com/YLEDE/dr_py/raw/main/libs/drpy2.min.js",
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":1,
-			"ext":"https://raw.githubusercontents.com/YLEDE/dr_py/main/js/B站影视.js"
-		},
-		{
-			"key":"drpy_js_朴樱",
-			"name":"朴樱",
-			"type":3,
-			"api":"https://raw.githubusercontents.com/YLEDE/dr_py/main/libs/drpy2.min.js",
-			"searchable":1,
-			"quickSearch":1,
-			"filterable":1,
-			"ext":"https://raw.githubusercontents.com/YLEDE/dr_py/main/js/朴樱影视.js"
+			"ext":"https://gitlab.com/YLEDE/dr_py/raw/main/js/B站影视.js"
 		},
 		{
 			"key":"drpy_js_大师兄",
 			"name":"大师兄",
 			"type":3,
-			"api":"https://raw.githubusercontents.com/YLEDE/dr_py/main/libs/drpy2.min.js",
+			"api":"https://gitlab.com/YLEDE/dr_py/raw/main/libs/drpy2.min.js",
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":1,
-			"ext":"https://raw.githubusercontents.com/YLEDE/dr_py/main/js/大师兄影视.js"
+			"ext":"https://gitlab.com/YLEDE/dr_py/raw/main/js/大师兄影视.js"
 		},
 		{
 			"key":"csp_xBPQ_TVB云播",
@@ -369,7 +337,7 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":0,
-			"ext":"https://raw.githubusercontents.com/YLEDE/tvbox/master/xpath/tvb.json"
+			"ext":"https://gitlab.com/YLEDE/tvbox/raw/master/xpath/tvb.json"
 		},
 		{
 			"key":"csp_xBPQ_kanlm",
@@ -379,17 +347,17 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":0,
-			"ext":"https://raw.githubusercontents.com/YLEDE/tvbox/master/xpath/kanlm.json"
+			"ext":"https://gitlab.com/YLEDE/tvbox/raw/master/xpath/kanlm.json"
 		},
 		{
-			"key":"csp_xBPQ_lgg",
-			"name":"落攻阁",
+			"key":"csp_xBPQ_cddys",
+			"name":"臭蛋蛋",
 			"type":3,
 			"api":"csp_XBPQ",
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":0,
-			"ext":"https://raw.githubusercontents.com/YLEDE/tvbox/master/xpath/lgg.json"
+			"ext":"https://raw.githubusercontents.com/YLEDE/tvbox/master/xpath/cddys.json"
 		},
 		{
 			"key":"csp_xBPQ_wpxq",
@@ -399,7 +367,7 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":0,
-			"ext":"https://raw.githubusercontents.com/YLEDE/tvbox/master/xpath/wpxq.json"
+			"ext":"https://gitlab.com/YLEDE/tvbox/raw/master/xpath/wpxq.json"
 		}
 	],
 
