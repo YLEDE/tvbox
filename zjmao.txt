@@ -1,7 +1,7 @@
 {
 	"wallpaper":"https://api.vvhan.com/api/view",
 
-	"spider":"https://gitee.com/RTXRui/tvfile/raw/master/wex.jar",
+	"spider":"https://gitee.com/RTXRui/tvfile/raw/master/spider.jar",
 
 	"lives":
 	[
@@ -77,10 +77,10 @@
 			"changeable":1
 		},
 		{
-			"key":"csp_Wexbaipiao",
+			"key":"csp_WexXingchen",
 			"name":"星辰",
 			"type":3,
-			"api":"csp_Wexbaipiao",
+			"api":"csp_WexXingchen",
 			"searchable":1,
 			"changeable":1
 		},
