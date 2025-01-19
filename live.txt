@@ -3,130 +3,125 @@ CCTV-1综合,http://223.105.252.60/PLTV/4/224/3221228581/index.m3u8
 CCTV-1综合,http://117.93.199.46:4022/rtp/239.49.8.19:9614
 CCTV-1综合,https://www.freetv.top/migu/608807420.m3u8?migutoken=5b04cf0d91179ab2d3d71703f0a8bc3d32dd02f7d8fb55ee70e05c216b8a9d1a73d911fbde798459fb66d94934157c996f8306c0dd37917775f2ed73dcc22cf84b25ca500bff5c636ff48d6344
 CCTV-1综合,http://z.b.bkpcp.top/m.php?id=cctv1
-CCTV-1综合,http://li0580.top:35455/gaoma/cctv1.m3u8
+CCTV-1综合,http://tawangxunyuan.vicp.cc:35455/gaoma/cctv1.m3u8
 CCTV-1综合,http://cc-ynbit-wszhibo.ifengli.com:2000/live/cctv-1hd/2500.m3u8?innersid=1587240374177179388
 
 CCTV-2财经,http://223.105.252.42/PLTV/3/224/3221228300/index.m3u8
 CCTV-2财经,http://117.93.199.46:4022/rtp/239.49.8.50:9802
 CCTV-2财经,https://www.freetv.top/migu/631780532.m3u8?migutoken=11ecfe0a296dcd532df72244565e20008b5a2e6936c05e73d9c90abe54b5bbffc942f2912e3fdd518714c4a7ad984beed028d07db3d49b8d1e21c54686ebfa8546f79a57d969866753cca722cc
 CCTV-2财经,http://z.b.bkpcp.top/m.php?id=cctv2
-CCTV-2财经,http://li0580.top:35455/gaoma/cctv2.m3u8
+CCTV-2财经,http://tawangxunyuan.vicp.cc:35455/gaoma/cctv2.m3u8
 CCTV-2财经,http://cc-ynbit-wszhibo.ifengli.com:2000/live/cctv-2hd/2500.m3u8?innersid=18203640774999492907
 
 CCTV-3综艺,http://223.105.252.59/PLTV/4/224/3221228499/index.m3u8
 CCTV-3综艺,http://117.93.199.46:4022/rtp/239.49.8.74:8000
 CCTV-3综艺,https://www.freetv.top/migu/624878271.m3u8?migutoken=380a18fe8dc81109270780918e605114ca218bcfa395aaa8682b605d1622439ffe7981dbd10f378c9c045f872d48dce39babcb012c7362dc8b21835e88fde6457bacaa4082c74879d64ad7aee4
 CCTV-3综艺,http://z.b.bkpcp.top/m.php?id=cctv3
-CCTV-3综艺,http://li0580.top:35455/gaoma/cctv3.m3u8
+CCTV-3综艺,http://tawangxunyuan.vicp.cc:35455/gaoma/cctv3.m3u8
 CCTV-3综艺,http://cc-ynbit-wszhibo.ifengli.com:2000/live/cctv-3hd/2500.m3u8?innersid=9476609640263440821
 
 CCTV-4国际,http://223.105.252.46/PLTV/3/224/3221228307/index.m3u8
 CCTV-4国际,http://117.93.199.46:4022/rtp/239.49.8.51:9806
 CCTV-4国际,https://www.freetv.top/migu/631780421.m3u8?migutoken=fefc6a44400a0dd448699ae0ce3d6e2c5a0f49b8d48adb36e747c4fbab039337eb3244f9951acbddaf26b7bf51597a7d1b43c8845e67fd5914ece875dcad325bb388200bc0f12fdff727d03e2d
 CCTV-4国际,http://z.b.bkpcp.top/m.php?id=cctv4
-CCTV-4国际,http://li0580.top:35455/gaoma/cctv4.m3u8
-CCTV-4国际,http://4glyt.dynv6.net:35455/itv/5000000011000031102.m3u8?cdn=bestzb
+CCTV-4国际,http://tawangxunyuan.vicp.cc:35455/gaoma/cctv4.m3u8
 
 CCTV-5体育,http://223.105.252.61/PLTV/4/224/3221228502/index.m3u8
 CCTV-5体育,http://117.93.199.46:4022/rtp/239.49.8.75:8000
 CCTV-5体育,https://www.freetv.top/migu/641886683.m3u8?migutoken=3e5c01f93922de8d1c940fe15bb47349b27e8f7a2e624dde1a83dff3b2a80f58b7624151a3a4d00488edee34f202818557340903382fae02bb754084eb942bd50e59061df36fab62fb5b908903
 CCTV-5体育,http://z.b.bkpcp.top/m.php?id=cctv5
-CCTV-5体育,http://li0580.top:35455/gaoma/cctv5.m3u8
+CCTV-5体育,http://tawangxunyuan.vicp.cc:35455/gaoma/cctv5.m3u8
 CCTV-5体育,http://cc-ynbit-wszhibo.ifengli.com:2000/live/cctv-5hd/2500.m3u8?innersid=4790815411650771981
 
 CCTV-5+赛事,http://223.105.252.38/PLTV/3/224/3221228277/index.m3u8
 CCTV-5+赛事,http://117.93.199.46:4022/rtp/239.49.8.18:9610
 CCTV-5+赛事,https://www.freetv.top/migu/641886773.m3u8?migutoken=03a1b82e35e58cd89a95034ecb29e77e50493397000ec2b1e4d1ce59af01e6420d6dbc068c8230ec03be3a35a20eed8714e0959e3570a08713a7a2e8d86085eabf8f1aa85744c80c38343988b2
 CCTV-5+赛事,http://z.b.bkpcp.top/m.php?id=cctv5p
-CCTV-5+赛事,http://li0580.top:35455/gaoma/cctv5p.m3u8
-CCTV-5+赛事,https://tvpull.careryun.com/tv/cctv5+.m3u8
+CCTV-5+赛事,http://tawangxunyuan.vicp.cc:35455/gaoma/cctv5p.m3u8
 
 CCTV-6电影,http://223.105.252.40/PLTV/3/224/3221228280/index.m3u8
 CCTV-6电影,http://117.93.199.46:4022/rtp/239.49.8.76:8000
 CCTV-6电影,https://www.freetv.top/migu/624878396.m3u8?migutoken=8e4f91b7950497f8570c74e50003b7fa23f6565c16a6b361ff855d3a969ddf7ea3826b04d20d76b6eeb472f0cb8b86284614a835429165709ec8c3055f8e9a7879e9594a4309b5d50f59f8a535
 CCTV-6电影,http://z.b.bkpcp.top/m.php?id=cctv6
-CCTV-6电影,http://li0580.top:35455/gaoma/cctv6.m3u8
+CCTV-6电影,http://tawangxunyuan.vicp.cc:35455/gaoma/cctv6.m3u8
 CCTV-6电影,http://cc-ynbit-wszhibo.ifengli.com:2000/live/cctv-6hd/2500.m3u8?innersid=14916759019483157794
 
 CCTV-7军事,http://223.105.252.46/PLTV/3/224/3221227642/index.m3u8
 CCTV-7军事,http://117.93.199.46:4022/rtp/239.49.0.126:8000
 CCTV-7军事,https://www.freetv.top/migu/673168121.m3u8?migutoken=a878b713604abd82c57cce75de174e0284d3f101e21d0c3e362670e4b5a5e75d9b42846e5e0adf92c1ad15c63d60934f3e68c25f787bc0665d12acde75a6db4761278e79b762292ed5b5a2fae3
 CCTV-7军事,http://z.b.bkpcp.top/m.php?id=cctv7
-CCTV-7军事,http://li0580.top:35455/gaoma/cctv7.m3u8
+CCTV-7军事,http://tawangxunyuan.vicp.cc:35455/gaoma/cctv7.m3u8
 CCTV-7军事,http://cc-ynbit-wszhibo.ifengli.com:2000/live/cctv-7hd/2500.m3u8?innersid=12706415551557919057
 
 CCTV-8电视剧,http://223.105.252.56/PLTV/3/224/3221228398/index.m3u8
 CCTV-8电视剧,http://117.93.199.46:4022/rtp/239.49.8.77:8000
 CCTV-8电视剧,https://www.freetv.top/migu/624878356.m3u8?migutoken=170b73b07e0cf0d307afea3545da5b9609d7c15461a2f4ac0f43634101df9baf391a446b91e5f84446b6a3b0934bb4730e2f3c4a32a565f904f22c8ff745a094d45dfd49c54f31b0b78156a080
 CCTV-8电视剧,http://z.b.bkpcp.top/m.php?id=cctv8
-CCTV-8电视剧,http://li0580.top:35455/gaoma/cctv8.m3u8
+CCTV-8电视剧,http://tawangxunyuan.vicp.cc:35455/gaoma/cctv8.m3u8
 CCTV-8电视剧,http://cc-ynbit-wszhibo.ifengli.com:2000/live/cctv-8hd/2500.m3u8?innersid=15852265263958669967
 
 CCTV-9纪录,http://223.105.252.50/PLTV/3/224/3221227659/index.m3u8
 CCTV-9纪录,http://117.93.199.46:4022/rtp/239.49.8.53:9814
 CCTV-9纪录,https://www.freetv.top/migu/673168140.m3u8?migutoken=749c49cdc31bb395e0349adc81010adc8707f80e51e9d3491ad67bfa71388ad768f7b52c8064338a7ef45eb7ddb192fb4937b21681c82499a0c16653ad9a9bec98ff5ce6ab183e4029bbdf269e
 CCTV-9纪录,http://z.b.bkpcp.top/m.php?id=cctv9
-CCTV-9纪录,http://li0580.top:35455/gaoma/cctv9.m3u8
+CCTV-9纪录,http://tawangxunyuan.vicp.cc:35455/gaoma/cctv9.m3u8
 CCTV-9纪录,http://cc-ynbit-wszhibo.ifengli.com:2000/live/cctv-9hd/2500.m3u8?innersid=17686352686599982856
 
 CCTV-10科教,http://223.105.252.48/PLTV/3/224/3221227717/index.m3u8
 CCTV-10科教,http://117.93.199.46:4022/rtp/239.49.8.54:9818
 CCTV-10科教,https://www.freetv.top/migu/624878405.m3u8?migutoken=07b6e1d4124dd85ca8138b8d8dcd646323952053748d7d5ac0a2b31dcb6626c605fb05470545bd0f7e0d23e807e6909b517b2b8b5e2eaa926600edaa15d80aee9b900245924108c86040411cd4
 CCTV-10科教,http://z.b.bkpcp.top/m.php?id=cctv10
-CCTV-10科教,http://li0580.top:35455/gaoma/cctv10.m3u8
+CCTV-10科教,http://tawangxunyuan.vicp.cc:35455/gaoma/cctv10.m3u8
 CCTV-10科教,http://cc-ynbit-wszhibo.ifengli.com:2000/live/cctv-10hd/2500.m3u8?innersid=9053765528789506188
 
 CCTV-11戏曲,http://223.105.252.52/PLTV/3/224/3221227720/index.m3u8
 CCTV-11戏曲,http://117.93.199.46:4022/rtp/239.49.0.127:8000
 CCTV-11戏曲,https://www.freetv.top/migu/667987558.m3u8?migutoken=16827d54043eba69d051685229b1d0623c01f398f643b3a7d912c9929d6525025ef57eb61666d45bb70dfc86405aa336ca762f0bda4f0284d98eddae4042805df42661f954a1d40820829ec8c2
 CCTV-11戏曲,http://z.b.bkpcp.top/m.php?id=cctv11
-CCTV-11戏曲,http://li0580.top:35455/gaoma/cctv11.m3u8
-CCTV-11戏曲,http://4glyt.dynv6.net:35455/itv/5000000011000031106.m3u8?cdn=bestzb
+CCTV-11戏曲,http://tawangxunyuan.vicp.cc:35455/gaoma/cctv11.m3u8
 
 CCTV-12社会,http://223.105.252.48/PLTV/3/224/3221227655/index.m3u8
 CCTV-12社会,http://117.93.199.46:4022/rtp/239.49.8.55:9822
 CCTV-12社会,https://www.freetv.top/migu/673168185.m3u8?migutoken=37acadb43b1d7932b0a1e8a4f2d01a06b42a10c31f3ccb417bae200ac3028f30a8110509f2cd6cd130aee4b21c85693aa49817f3381e4d28e140d8db1a20b6fecea22fec17a70ff1341efe6081
 CCTV-12社会,http://z.b.bkpcp.top/m.php?id=cctv12
-CCTV-12社会,http://li0580.top:35455/gaoma/cctv12.m3u8
+CCTV-12社会,http://tawangxunyuan.vicp.cc:35455/gaoma/cctv12.m3u8
 CCTV-12社会,http://cc-ynbit-wszhibo.ifengli.com:2000/live/cctv-12hd/2500.m3u8?innersid=8190402369178717730
 
 CCTV-13新闻,http://223.105.252.50/PLTV/3/224/3221228324/index.m3u8
 CCTV-13新闻,http://117.93.199.46:4022/rtp/239.49.8.109:8000
 CCTV-13新闻,https://www.freetv.top/migu/608807423.m3u8?migutoken=ac19a58805588401a8e818b6dd00df9b327912af3611ba95f89235e7020821668a2b6dc65ccc3904967da59d0a9742565c56ea582baf8915d068035054818ef0f369dab64705a6a7f7120529ec
 CCTV-13新闻,http://z.b.bkpcp.top/m.php?id=cctv13
-CCTV-13新闻,http://li0580.top:35455/gaoma/cctv13.m3u8
-CCTV-13新闻,http://4glyt.dynv6.net:35455/itv/5000000011000031108.m3u8?cdn=bestzb
+CCTV-13新闻,http://tawangxunyuan.vicp.cc:35455/gaoma/cctv13.m3u8
 
 CCTV-14少儿,http://223.105.252.48/PLTV/3/224/3221227656/index.m3u8
 CCTV-14少儿,http://117.93.199.46:4022/rtp/239.49.8.56:9826
 CCTV-14少儿,https://www.freetv.top/migu/624878440.m3u8?migutoken=239edad94ac0bbff14f123c7f8996ed7639110bd6cf64ec8ba8cf85842224956d452ec8b683385cb27f8a7685224a03e3aa4d914b8fe33249da9df699351b105c795452d03f2be0a1f1e39adb0
 CCTV-14少儿,http://z.b.bkpcp.top/m.php?id=cctv14
-CCTV-14少儿,http://li0580.top:35455/gaoma/cctv14.m3u8
+CCTV-14少儿,http://tawangxunyuan.vicp.cc:35455/gaoma/cctv14.m3u8
 CCTV-14少儿,http://cc-ynbit-wszhibo.ifengli.com:2000/live/cctv-14hd/2500.m3u8?innersid=10749977474028640862
 
 CCTV-15音乐,http://223.105.252.52/PLTV/3/224/3221227723/index.m3u8
 CCTV-15音乐,http://117.93.199.46:4022/rtp/239.49.0.128:8000
 CCTV-15音乐,https://www.freetv.top/migu/673168223.m3u8?migutoken=4e8d5766579c6bef231494cabd07e5b49d965804790214280c9791e4c331fd90311cb62ea43d3a1899229bfa57be4afe5a567b32a6b78153fc9a9801e28a39435e078b48c211e71d6083519be4
 CCTV-15音乐,http://z.b.bkpcp.top/m.php?id=cctv15
-CCTV-15音乐,http://li0580.top:35455/gaoma/cctv15.m3u8
-CCTV-15音乐,http://4glyt.dynv6.net:35455/itv/5000000011000031109.m3u8?cdn=bestzb
+CCTV-15音乐,http://tawangxunyuan.vicp.cc:35455/gaoma/cctv15.m3u8
 
 CCTV-16奥运,http://223.105.252.59/PLTV/4/224/3221228314/index.m3u8
 CCTV-16奥运,http://223.105.252.58/PLTV/3/224/3221228168/index.m3u8
 CCTV-16奥运,http://117.93.199.46:4022/rtp/239.49.8.31:8000
 CCTV-16奥运,http://z.b.bkpcp.top/m.php?id=cctv16
-CCTV-16奥运,http://li0580.top:35455/gaoma/cctv16.m3u8
+CCTV-16奥运,http://tawangxunyuan.vicp.cc:35455/gaoma/cctv16.m3u8
 
 CCTV-17农村,http://223.105.252.47/PLTV/3/224/3221227726/index.m3u8
 CCTV-17农村,http://117.93.199.46:4022/rtp/239.49.8.52:9810
 CCTV-17农村,https://www.freetv.top/migu/673168256.m3u8?migutoken=11fec7586772852c5b34d75ff515080f8def9861a030c98c5861b036729d642445a7bc5b0cd43e7086ca1903346f6cbad01b639771ee3bd13e653bdb2d14f169744862c9695688b0b177bc144a
 CCTV-17农村,http://z.b.bkpcp.top/m.php?id=cctv17
-CCTV-17农村,http://li0580.top:35455/gaoma/cctv17.m3u8
+CCTV-17农村,http://tawangxunyuan.vicp.cc:35455/gaoma/cctv17.m3u8
 CCTV-17农村,http://cc-ynbit-wszhibo.ifengli.com:2000/live/cctv-17hd/2500.m3u8?innersid=2038717225283627700
 
 CCTV-4K超高清,http://223.105.252.59/PLTV/4/224/3221228228/index.m3u8
 CCTV-4K超高清,http://223.105.252.59/PLTV/4/224/3221228472/index.m3u8
-CCTV-4K超高清,http://li0580.top:35455/gaoma/cctv4k.m3u8
+CCTV-4K超高清,http://tawangxunyuan.vicp.cc:35455/gaoma/cctv4k.m3u8
 
 卫视,#genre#
 湖南卫视,http://223.105.252.60/PLTV/3/224/3221228413/index.m3u8
@@ -341,9 +336,9 @@ VIU6,http://198.16.100.90:8278/viusix_twn/playlist.m3u8?tid=MF0F4217630642176306
 UHD,#genre#
 CCTV-4K超高清,http://223.105.252.59/PLTV/4/224/3221228228/index.m3u8
 CCTV-4K超高清,http://223.105.252.59/PLTV/4/224/3221228472/index.m3u8
-CCTV-4K超高清,http://li0580.top:35455/gaoma/cctv4k.m3u8
+CCTV-4K超高清,http://tawangxunyuan.vicp.cc:35455/gaoma/cctv4k_10m.m3u8
 CCTV-8K,http://223.105.252.58/PLTV/3/224/3221228165/index.m3u8
-CCTV-8K,http://li0580.top:35455/gaoma/cctv8k_36m.m3u8
+CCTV-8K,http://tawangxunyuan.vicp.cc:35455/gaoma/cctv8k_36m.m3u8
 CCTV-16,http://223.105.252.56/PLTV/3/224/3221228112/index.m3u8
 CCTV-16,http://223.105.252.59/PLTV/4/224/3221228314/index.m3u8
 纯享4K,http://223.105.252.57/PLTV/3/224/3221228242/index.m3u8
